@@ -33,7 +33,7 @@
 		echo $firstName . " " . $lastName;
 	?>
 	<?php
-		echo "<p>Tänane kuupäev on: " . $dateToday .".</p>"; \n"
+		echo "<p>Tänane kuupäev on: " . $dateToday .".</p>"; 
 		echo "<p>Lehe avamise hetkel oli kell ".date("H:i:s"). ",käes oli
 		" .$partOfDay.".<p>"; ;
 		
